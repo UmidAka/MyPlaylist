@@ -1,0 +1,1294 @@
+#EXTM3U
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", O'zbekiston
+https://flussonic.salomtv.uz/Uzbekiston/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", Yoshlar
+https://flussonic.salomtv.uz/YoshlarHD/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", Toshkent
+https://flussonic.salomtv.uz/Toshkent/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", Bolajon
+https://flussonic.salomtv.uz/Bolajon/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", NAVO
+https://flussonic.salomtv.uz/Navo/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", Foreign Languages
+https://flussonic.salomtv.uz/Foreign-Lang/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", O'zbekiston 24 HD
+https://flussonic.salomtv.uz/Uzb24/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", Mahalla
+https://flussonic.salomtv.uz/Mahalla/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", Mening Yurtim HD
+https://flussonic.salomtv.uz/Mening_YurtimHD/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", TRT HABER
+https://flussonic.salomtv.uz/TRT_HABER/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", Хабар 24
+https://flussonic.salomtv.uz/Xabar24/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Детские (90-5219886)", Aqilvoy
+https://flussonic.salomtv.uz/Aqilvoy/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Детские (90-5219886)",Ля-Минор
+https://flussonic.salomtv.uz/lya_minor/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Детские (90-5219886)",Муз ТВ HD O'zbekiston
+https://flussonic.salomtv.uz/Muz_TV/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Детские (90-5219886)", MyDayTV HD
+https://flussonic.salomtv.uz/Myday/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Детские (90-5219886)",СТС Kids
+https://flussonic.salomtv.uz/STSkids/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Детские (90-5219886)", Da Vinci
+https://flussonic.salomtv.uz/Davinci/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Детские (90-5219886)",В Гостях у Сказки
+https://flussonic.salomtv.uz/Vgostahuskazki/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Детские (90-5219886)",Карусель
+https://flussonic.salomtv.uz/Karusel/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Детские (90-5219886)",Детский Мир
+https://flussonic.salomtv.uz/DetskiyMir/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Детские (90-5219886)",Уникум
+https://flussonic.salomtv.uz/Detskiy/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Детские (90-5219886)",Мультиландия
+https://flussonic.salomtv.uz/Multilandiya/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", LUX TV HD
+https://flussonic.salomtv.uz/LuxTV/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Спорт",Viasat Sport HD
+https://flussonic.salomtv.uz/Viasat_Sport/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Спорт", Eurosport 1
+https://flussonic.salomtv.uz/Eurosport/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Спорт", MMA-TV.COM
+https://flussonic.salomtv.uz/MMATV/video.m3u8
+#EXTINF:0,#EXTINF:-1 group-title="Спорт", Sport HD UZ
+https://flussonic.salomtv.uz/Sport-UZ/video.m3u8
+http://193.242.204.28:10102/102
+#EXTINF:-1 group-title="Спорт", Мир баскетбола 
+http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Спорт", Мир баскетбола HD
+http://88.218.242.237:8000/play/a00e
+#EXTINF:-1 group-title="Спорт", Мяч
+http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт", Старт
+http://185.23.80.28:8080/START/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт", Старт HD
+http://91.194.191.241:8081/chid231/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Старт Триумф HD
+http://88.218.242.237:8000/play/a00d
+#EXTINF:-1 group-title="Спорт", Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 group-title="Спорт", Футбол
+http://185.23.80.28:8080/Football/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт", Футбол HD
+https://kinescope.io/dwy2fEmxCjP4urMH7A6GSa/master.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 1
+https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 1 HD
+http://45.132.87.69:8080/eurosport1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 2 
+http://77.235.1.17/eurosport_2/index.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
+rtmp://5.182.229.90//7203
+#EXTINF:-1 group-title="Спорт", Extreme Sports
+http://94.230.128.105:8080/extreme_sport/index.m3u8
+#EXTINF:-1 group-title="Спорт", Fast&FunBox
+http://95.156.76.230:33001/udp/230.4.34.86:1234
+#EXTINF:-1 group-title="Спорт", FightBox
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Golf Channel English
+http://78.130.250.2:8023/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
+https://stream1.cinerama.uz/1027/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Premier Sports 1
+https://7pal.short.gy/prsport1
+#EXTINF:-1 group-title="Спорт", Premier Sports 2
+https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="Спорт", QazSport 🇰🇿
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Russian Extreme
+http://91.224.169.250:5000/c61
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1
+rtmp://92.119.88.58//271
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
+https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2
+rtmp://92.119.88.58//270
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
+https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="Спорт", Sky Sports 3 NZ
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="Спорт", Sky Sports 4 NZ
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="Спорт" tvg-id="sky-sports-action", Sky Sports Action
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 group-title="Спорт", Sky Sports Golf
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 group-title="Спорт", Sky Sports F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 group-title="Спорт", Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Спорт", Sky Sports Football
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="Спорт", Sky Sports Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="Спорт", Sky Sports News
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="Спорт", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="Спорт", TNT Sport 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Спорт", TNT Sport 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Спорт", TNT Sport 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="Спорт", TNT Sport 4
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="Спорт", Viju+ Sport
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/d2360201b7ecc3975c3982437a50c0c5.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/c2cc6917a06db06aa1b2274b84dafa48.png" channelId="226" tvg-id="kxl-hd",KHL Prime
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/a29e2f9379a81cff3ff939e30ef15e16.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/2d6a14e457510412f70808d1f3921fd6.png" channelId="80" tvg-id="kxl",KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/12/8698f8174bf9151672bf27e9d1cd1f35.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/12/f7b9111271a7ddf921e8a7104525471f.png" channelId="3877" tvg-id="m1global",MMA-TV
+https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/9dc44b5959bd754f0482f80581b9d279.png" channelId="154" tvg-id="russky-ekstrim",Russian Extreme
+https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7147f40fcb04ee4d091bdb4f01f87e63.png" logo="https://otv.one/uploads/tv_image/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C-5-hd.png" channelId="1511" tvg-id="belarus5",Беларусь 5
+https://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/422.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_1A6_4_70_1680000_0_0_0.png" channelId="1827" tvg-id="box-tv",Бокс ТВ
+https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/cf249e65252b5b396c7abe91006ccd99.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/718e7c96fd3d57b161daf4b3a5c238ae.png" channelId="447" tvg-id="match-planeta",Матч! Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/02/55ab75d899eb43237d81b92550e8facc.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/02/cce5521fa046b377b6212ea5feb6bc58.png" channelId="631" tvg-id="start",Старт HD
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/c5543d97d9de1f0c5b47af2bc61dfde3.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/606c67c47bd76f04a8d02c5ec67f72d8.png" channelId="5189" tvg-id="start-triumf",Старт Триумф
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/c646578298e9349525513ff85cc08ab7.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/b79b8c3bf962462989e320ffe2373617.png" channelId="919" tvg-id="football-ru",Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 group-title="Музыка", 1HD
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 group-title="Музыка", Жара 
+http://31.210.208.171:8080/jara/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Музыка", Курай
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-id="la-minor" group-title="Музыка", Ля-минор 
+http://31.210.208.171:8080/la_minor/index.m3u8?token=+W2MSER
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:-1 group-title="Музыка", Музыка Первого 
+http://91.205.199.3/roos-muzika1/manifest.m3u8
+#EXTINF:-1 group-title="Музыка", О!2
+http://195.26.83.96:7006/play/1/index.m3u8
+#EXTINF:-1 group-title="Музыка", Первый Музыкальный
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Музыка", Первый Музыкальный Россия
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка", Русский корабль 
+https://media.rus-ship.ru:8588/live/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка", Телеканал Радио Страна ФМ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", ТНТ Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Музыка", Туган Тел
+https://stream2.cinerama.uz/1261/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="shanson-tv" group-title="Музыка", Шансон-ТВ 
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge
+http://91.194.191.241:8081/chid90/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Classic
+http://77.235.1.17/bridge_classic/index.m3u8
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge Deluxe
+http://91.197.104.34/AAC/mono.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Hits
+http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
+#EXTINF:-1 group-title="Музыка", Bridge Rock
+http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge Русский Хит
+http://185.23.80.28:8080/BRIDGETVRusskijXit/index.m3u8?token=test
+#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыка", Bridge Фрэш
+http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=test
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge Шлягер
+http://193.242.204.28:10197/197
+#EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Dance 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Music 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Europa Plus TV
+http://93.189.224.246:52900/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Музыка", Kiss Kiss
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка", Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Музыка", Maidan
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", MCM Top
+http://109.200.130.123:7537/play/a029
+#EXTINF:-1 group-title="Музыка", Mezzo 
+http://178.212.71.253:8002/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Музыка", Mezzo Live HD
+http://93.125.121.75:80/MezzoLiveHD/index.m3u8?token=test
+#EXTINF:-1 group-title="Музыка", MTV Live HD
+http://stream01.vnet.am/Channel_117/mono.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Music
+http://193.242.204.28:10193/193
+#EXTINF:-1 group-title="Музыка", MTV 00's
+http://193.242.204.28:10190/190
+#EXTINF:-1 group-title="Музыка", MTV 80's
+http://193.242.204.28:10191/191
+#EXTINF:-1 group-title="Музыка", MTV 90's
+http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="Музыка", MusicBox Gold 
+http://37.205.83.56:81/udp/239.54.5.7:1224
+#EXTINF:-1 group-title="Музыка", Polsat Music HD
+https://89.187.167.247/polsatmusic.stream/chunks.m3u8
+#EXTINF:-1 group-title="Музыка", Radio M2O 
+https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
+#EXTINF:-1 group-title="Музыка", Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", RU.TV HD
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="Музыка", Russian MusicBox HD
+http://94.230.128.105:8080/MUSIC/index.m3u8
+#EXTINF:-1 group-title="Музыка", Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка", Sunset Music
+https://stream.sunset-media.ru:443/Free/Free/2.m3u8
+#EXTINF:-1 group-title="Музыка", Sunset Music Live
+https://stream.sunset-media.ru/Free/Free/6.m3u8
+#EXTINF:-1 group-title="Музыка", TMTV 
+http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка", Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Музыка", V2BEAT
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 group-title="Музыка", Viva TV Russia
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 group-title="Музыка", Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epgx.site/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-Yandex 24.04.2024 17:55 channels 118 iptvin.ru
+http://overlay.iptvin.site/iptvin.ru.mp4
+#EXTINF:-1 group-title="Россия" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/88647715e1728e324539fee700fe6a29.png" channelId="17" tvg-id="zvezda",Звезда
+https://strm.yandex.ru/kal/zvezda/zvezda0.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/06/bb0fe67f7ce64c04706db96b2eccdd2e.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/06/a45aed909a51d78c8119320ae6c356ae.png" channelId="138" tvg-id="mir",Мир
+https://strm.yandex.ru/kal/mir_belarus/mir_belarus0.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" logo="http://overlay.iptvin.fun/epg/PIC/%D0%9D%D0%A2%D0%92.png" channelId="6" tvg-id="ntv",НТВ
+https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7" tvg-id="5kanal-ru",Пятый канал (International)
+http://strm.yandex.ru/kal/5_kanal_int_belarus/5_kanal_int_belarus0.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/f18cce82af043fcc987678d734004099.png" channelId="782" tvg-id="rtr-planeta-azia",Россия РТР
+https://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://www.lyngsat.com/logo/tv/num/360-degree-novosti-ru.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/3e82094d6f3e932a27d8d6d90c86ccd4.png" channelId="3976" tvg-id="360-news",360 Новости
+https://strm.yandex.ru/kal/360news/360news0.m3u8
+#EXTINF:-1 group-title="Информационные",360
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1441699164458.png" channelId="143" tvg-id="russia-today",Russia Today
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://obob.tv/wp-content/uploads/2018/10/26805256_1801307023214452_5188693326113711450_n.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_71F_12_70_1680000_0_0_0.png" channelId="589" tvg-id="mir-24",Мир 24
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://obob.tv/wp-content/uploads/2018/10/26805256_1801307023214452_5188693326113711450_n.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_71F_12_70_1680000_0_0_0.png" channelId="589" tvg-id="mir-24",Мир 24
+https://strm.yandex.ru/kal/mir_24_belarus/mir_24_belarus0.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/18805e851492257841dea2b12048495a.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/35dafd6f5cd34b7de01c5ce1c682b785.png" channelId="153" tvg-id="moskva-24",Москва-24
+https://strm.yandex.ru/kal/msk24_n/msk24_n0.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_525_D_70_1680000_0_0_0.png" channelId="9" tvg-id="rbk",РБК
+https://strm.yandex.ru/kal/rbc/rbc0.m3u8
+#EXTINF:-1 group-title="Ultra HD 4K" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/11/3c/67/113c67cf-447c-6541-a80d-23eb51aa3c07/source/512x512bb.jpg" logo="http://img12.lostpic.net/2018/05/12/c7c19d7209410d942dfbbd6aa5ff1b9a.png" channelId="3923" tvg-id="nasha-sibir-4k",Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 group-title="Беларусь",СТВ HD (Беларусь)
+https://strm.yandex.ru/kal/stv_belarus/stv_belarus0.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/0a84774da0f8c273d6a0159cec9f82c8.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/956dc8f130bae4483347097158aedaec.png" channelId="1715" tvg-id="tv3-by",ТВ3 Беларусь
+https://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/02/e0dd874cdff84fff612ed64f089ee84e.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/02/d0dab507986f02bfa356d01482eeffef.png" channelId="5210" tvg-id="baby-time",Baby Time
+https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/f77fc1e10ceb39b04a18af3d3b10d4a5.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/439f566e211c3de7ae9ec7caee85ca15.png" channelId="513" tvg-id="ducktv",Duck TV
+https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/e855e1662477502880cdb21275e50c32.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/6a5f245bacd0269d818867389e3ed4bb.png" channelId="183" tvg-id="gulli-girl",Gulli Girl
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/c28a6c0c7cfe37b6c1deac8d203bf725.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_727_12_70_1680000_0_0_0.png" channelId="182" tvg-id="tiji",TiJi
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2024/01/c5a75a5daf44ab43369ab54f367331cb.png" logo="http://s1.hostingkartinok.com/uploads/images/2024/01/7d9f5fe856fddfad0fbc33d49dcff549.png" channelId="3556" tvg-id="v-gostiax-u-skazki",В гостях у сказки
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/a99fd561da669a2b9573b459675befc7.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/7ee4e494540e532af714d1221951bce0.png" channelId="2674" tvg-id="ginger-hd",Капитан Фантастика
+https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://i.ibb.co/ZJXX8KM/Lyova-220x220.png" logo="https://i.ibb.co/NmcXrpc/Lyova-220x132-tr.png" channelId="5191" tvg-id="liova",Лёва
+https://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/9de54386efb3533c8858f1f7ebbd46c7.jpg" logo="http://overlay.iptvin.fun/epg/PIC/%D0%9C%D1%83%D0%BB%D1%8C%D1%82.png" channelId="1722" tvg-id="mult",Мульт
+https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/4cb56b365d341b49616bd671747ed6ff.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/c8bc685a60a9e4df35a584848cc6e773.png" channelId="186" tvg-id="multimania",Мультиландия
+https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/5b2cfe86de6ca8068c39f225c642989c.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%A0%D1%8B%D0%B6%D0%B8%D0%B9.png" channelId="2798" tvg-id="ryzhy",Рыжий
+https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/c112f07f0092fcb68f8b7ff312b96bd5.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/c48846550772b9512e6fc35ac74d1afc.png" channelId="1728" tvg-id="sts-kids-hd",СТС Kids
+https://strm.yandex.ru/kal/СТСkids/СТСkids0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/09/ea6841391730dd68dd080fde2149e960.png" logo="https://epg.openboxfan.com/picon/чижик.png" channelId="5208" tvg-id="chizhik",Чижик
+https://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/b781b52ad6757cc1d92a3f6b9b1e7dde.png" logo="http://overlay.iptvin.fun/epg/PIC/Bollywood.png" channelId="2802" tvg-id="bollywood-hd",Bollywood
+https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/c34e63bd524a6cebfa54c385342caf38.jpg" logo="https://antifriz.tv/storage/images/pack_logos/199f12272161f01943e3972bdbb88db4.png" channelId="181" tvg-id="cinema-ru",Cinema
+https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00200.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/2f27d85958fffd37126a14c58d281401.png" channelId="3919" tvg-id="hollywood",Hollywood
+https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/0ecf6a300e56cce6d0113438d28f140e.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_2D9_7_70_1680000_0_0_0.png" channelId="193" tvg-id="tvxxi",TV XXI
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/5ebf72dd5afbad0f4e24aaab6915d899.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/569e72085cef47f9b69845251b1dd1a6.png" channelId="-1" tvg-id="timeless-dizi",Timeless Dizi Channel
+https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/276.jpg" logo="http://teledays.net/images/indijskoe-kino.png" channelId="168" tvg-id="indiyskoe-kino",Индийское Кино
+https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/f37646838419385697673b8a7ca040e4.png" channelId="194" tvg-id="kinokomedia",Кинокомедия
+https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/75cba7c36cdbfdb0fc4e546d9abf249f.png" channelId="270" tvg-id="kinomiks",Киномикс
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinopremera_hd.png" channelId="410" tvg-id="kinopremiera-hd",Кинопремьера
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://tv.kubtel.ru/tv_icon/kinosat.jpg" channelId="4643" tvg-id="kinosat",Киносат
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b34ef04769aa6b12cfe1408097b35a40.png" channelId="413" tvg-id="kinosvidanie",Киносвидание
+https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/f42e796c2f5355783b49ba5162b4f1e7.png" channelId="568" tvg-id="kinosemiya",Киносемья
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/70add95c7fd31a9cb4465189b8afb8c6.png" channelId="195" tvg-id="kinoseria",Киносерия
+https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d15a6dc12a4aa8198d6a48549a262be1.png" channelId="409" tvg-id="kinoxit",Кинохит
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/3760972577fd4e2a04f286e143d08520.png" channelId="169" tvg-id="muzhskoe-kino",Мужское кино
+https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://tvbesedka.com/Upload/2022/3/29/23/43/17/4fb73bfd-d612-48f7-8d90-6a586ed6180b.jpg" logo="https://antifriz.tv/storage/images/channel_logos/hct.png" channelId="272" tvg-id="nst",НСТ
+https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/e93d2c79526c93b504177635d66e8c17.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE.png" channelId="3162" tvg-id="ntv-pravo",НТВ Право
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/071e65cbe8a2065c737c617c04a79565.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB.png" channelId="3160" tvg-id="ntv-serial",НТВ Сериал
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/aec3fe86e065282f04440c7200195241.png" logo="https://satsis.info/uploads/posts/2018-07/1532600127_www.satsis.info__ntv-hit.png" channelId="3865" tvg-id="ntv-xit",НТВ Хит
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" channelId="315" tvg-id="nashe-novoe-kino",Наше новое кино
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5fc7f9642a6404366bc5ded89985fd60.png" channelId="316" tvg-id="rodnoe-kino",Родное кино
+https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/2118.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/46e8f3801d7e757e999a0607193e7c1b.png" channelId="1816" tvg-id="bridge-tv-classic",Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/2206.png" logo="https://i115.fastpic.org/big/2021/0914/0d/e8155855e79178a4fdf78948dc76a50d.png" channelId="3164" tvg-id="bridge-hd",Bridge TV Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1818.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_71A_12_70_1680000_0_0_0.png" channelId="536" tvg-id="bridge-tv-dance",Bridge TV Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/2119.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_71E_12_70_1680000_0_0_0.png" channelId="484" tvg-id="bridge-tv-ruxit",Bridge TV Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/fc6ea1d726cf975a31031663a63812de.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/52873f2660bc5857b1dfd339c791f476.png" channelId="-1" tvg-id="bridge-tv-shlager",Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/98bc42e071ff11a5fb34ee6af6f3305e.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/b841642eecff0786121dd234628d7172.png" channelId="25" tvg-id="bridge-tv",Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/72a456a71aa3f75afdf14fa8614080bc.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/5fb36503ff93133d3f5afc917ab6ec5b.png" channelId="42" tvg-id="europa-plus-tv",Europa Plus TV
+https://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/72a456a71aa3f75afdf14fa8614080bc.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/5fb36503ff93133d3f5afc917ab6ec5b.png" channelId="42" tvg-id="europa-plus-tv",Europa Plus TV
+https://strm.yandex.ru/kal/europaplus/europaplus0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-music-box-tv-6963-300x225.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/c8000e391406d02e35f375ea5a50c1c0.png" channelId="3921" tvg-id="musicbox",MusicBox Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-ru-tv-moldova-3978.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_714_12_70_1680000_0_0_0.png" channelId="45" tvg-id="ru-tv",RU.TV
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/02ede7e2be336050187e7047e8a43065.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/12/317fe31acd6100613a6ffc76f2f33a8e.png" channelId="28" tvg-id="russian-musicbox",Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/123.png" channelId="285" tvg-id="zhara",Жара
+https://strm.yandex.ru/kal/ot_rassveta_do_zakata_zhara/ot_rassveta_do_zakata_zhara0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/39d51feb1bf0e97becf6ca7e778b8777.jpg" logo="https://i115.fastpic.org/big/2021/0914/df/ba3211d66bccb92f2a1d0483298b70df.png" channelId="150" tvg-id="la-minor",Ля-минор
+https://strm.yandex.ru/kal/la_minor_belarus/la_minor_belarus0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/25a360b6fee73e109c13d9cb87be8500.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/39cf8ffa0c8c658be1d5ed50c0fd61be.png" channelId="136" tvg-id="muztv",Муз ТВ
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-tnt-music-5304-300x225.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/a2b0bef273f59be8613ea726c448ccfa.png" channelId="24" tvg-id="tnt-music",ТНТ Music
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/1KJV9Cp/83a793e5fc9bc4ef6e4bec00a55b8269.jpg" logo="http://epg.openboxfan.com/picon/365днейтв.png" channelId="52" tvg-id="365-dnej",365 дней ТВ
+https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные",English Class HD
+https://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://89.tv-internet.pro/wp-content/uploads/2019/12/160-%D0%A2%D0%B0%D0%B9%D0%BD%D1%8B-%D0%93%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8-HD.png" channelId="391" tvg-id="galaxy-tv",Galaxy
+https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/db18bf0763c0d790b80ef4a0f1507968.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_19_2F47_C_70_1680000_0_0_0.png" channelId="234" tvg-id="hd-life",HDL
+https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://tv.nalench.com/uploads/screenshots/rtd.jpg" logo="https://antifriz.tv/storage/images/channel_logos/rt-doc.png" channelId="645" tvg-id="rt-doc",RT Doc
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/rtghd_black.png" logo="http://overlay.iptvin.fun/epg/PIC/RTG%20HD.png" channelId="1494" tvg-id="rtg-hd",RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто Плюс
+https://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/925189ef3496a4da729e4cc78f0c704e.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB%20HD.png" channelId="1039" tvg-id="arsenaltv" shift="3",Арсенал
+https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/49669dab9c868229a4b05971edebe178.jpg" logo="http://overlay.iptvin.fun/epg/PIC/%D0%92%20%D0%BC%D0%B8%D1%80%D0%B5%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85%20HD.png" channelId="3974" tvg-id="v-mire-zhivotnyx-hd",В мире животных
+https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/27cfeeb71d0af02ad27014493988a393.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%95%D0%B4%D0%B0%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20HD.png" channelId="232" tvg-id="eda-hd",Еда Премиум
+https://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://crimeastar.net/iptv-logos/79.png" channelId="325" tvg-id="zagorodnaya-zhizn",Загородная жизнь
+https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/109.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_6D_1_70_1680000_0_0_0.png" channelId="174" tvg-id="kto-est-kto",Кто есть кто
+https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/109.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_6D_1_70_1680000_0_0_0.png" channelId="174" tvg-id="kto-est-kto",Кто есть кто
+https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://s3.vcdn.biz/static/f/1960088511/image.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/10/3b390fb49e8c5461ff444429b48eff2c.png" channelId="-1" tvg-id="mir-vokrug",Мир Вокруг
+https://strm.yandex.ru/kal/mitvokrug/mitvokrug0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://s.glaz.tv/images/logos/tv/big/moya-planeta.jpg" logo="http://overlay.iptvin.fun/epg/PIC/%D0%9C%D0%BE%D1%8F%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20HD.png" channelId="1762" tvg-id="moya-planeta",Моя планета
+https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные",Мы HD
+https://strm.yandex.ru/kal/my/my0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/2b6b5145a6b1b1937d5a0f84dd890f6d.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%202.0.png" channelId="173" tvg-id="nauka-20",Наука 2.0
+https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/6537.png" logo="https://i115.fastpic.org/big/2021/0914/e5/8bc59005741158f5f4a3253d3aa9ade5.png" channelId="3923" tvg-id="nasha-sibir-4k",Наша Сибирь HD
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 group-title="Познавательные",Неизвестная Россия HD
+https://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/117.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_75_1_70_1680000_0_0_0.png" channelId="160" tvg-id="nostalgia",Ностальгия
+https://strm.yandex.ru/kal/nostalgia_belarus/nostalgia_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/04/5eaaf2491af8ff0165ad365d5821c173.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/0434d2223a05768f79a8d4f0b4d64c3a.png" channelId="3925" tvg-id="prikluchenia-hd",Приключения
+https://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/DQgzyCc/b5620abbd89de1ea79aa690ef36632de.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/6c854139941fc6b1f93c8807478d55c6.png" channelId="175" tvg-id="sovsek",Совершенно секретно
+https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/f29c66c9aeabb21b8c209337d4ebd17a.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/77523699d7ed019c7c93c7331cb22df3.png" channelId="162" tvg-id="texno-24",Техно 24
+https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/11f461d827ce1305644405dd1de859bb.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/6661c7eacddb3aeb6cc5c0195961d339.png" channelId="3136" tvg-name="Царьград",Царьград
+https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7ab5f2afd592dc6342959b577268a180.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%A2%D0%92.png" channelId="3955" tvg-id="centralnoye-tv",Центральное телевидение
+https://strm.yandex.ru/kal/ctv/ctv0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/024614b06bdfdc2444ef5229fab8773c.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/22654940aeed4b5e8654e5c870d2915a.png" channelId="14" tvg-id="2na2",2x2
+https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные",EPIC HD
+https://strm.yandex.ru/kal/epic/epic0.m3u8
+#EXTINF:-1 group-title="Развлекательные",Fashion & Lifestyle
+https://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/78301c5421bd47855a62261fd7e6eb10.png" channelId="280" tvg-id="fashion-tv",Fashion TV
+https://strm.yandex.ru/kal/fashion_tv/fashion_tv0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/2105.png" logo="http://epg.openboxfan.com/picon/диалогиорыбалке.png" channelId="3709" tvg-id="dialogi-o-rybalke",Диалоги о рыбалке
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/6224.png" logo="http://epg.openboxfan.com/picon/%D0%B6%D0%B8%D0%B2%D0%B8.png" channelId="76" tvg-id="zhivi",Живи
+https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/101ba3240b39ea79d033c16228c53a40.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_7C_1_70_1680000_0_0_0.png" channelId="3047" tvg-id="kvn-tv",КВН ТВ
+https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/358939849f755b769ed63060857128ea.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/6af0402151028746a625767550547828.png" channelId="323" tvg-id="muzhskoy",Мужской
+https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/993c01671434c522a2f58e382f0c3b33.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C.png" channelId="3161" tvg-id="ntv-style",НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/67efdf96655dfd50a1a29ab027ce9bbd.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/6b2a7fd7cd4d65ab96784fee692c2ea1.png" channelId="300" tvg-id="oxotnik-i-rybolov-hd",Охотник и рыболов
+https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.cableman.ru/sites/default/files/prodvizhenie.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/3b3fb0b1380ffea41474bd388f42bbc0.png" channelId="3138" tvg-id="prodvizhenie",Продвижение HD
+https://strm.yandex.ru/kal/prodvizhenie/prodvizhenie0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d9ba327d2618e3f2b43cee76742b4401.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/49614803d2ad33cd89bb80a0930eb4d9.png" channelId="23" tvg-id="yu",Ю
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_3EF_A_70_1680000_0_0_0.png" channelId="244" tvg-id="spas",Спас
+https://strm.yandex.ru/kal/spas/spas0.m3u8
+#EXTINF:-1 group-title="Без группы",Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 group-title="Без группы",HITV
+https://strm.yandex.ru/kal/hittv/hittv0.m3u8
+#EXTINF:-1 group-title="Без группы",RT HD
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+#EXTINF:-1 group-title="Без группы",Океан
+https://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Без группы",Первый космический
+https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
+#EXTINF:-1 group-title="Без группы",ТНТ International
+https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
+#EXTINF:-1 group-title="Без группы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/02/e3a5e2e59231787e14d9a41b31eed365.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/02/ac9109f507f576c8cdffde8508ac8b2d.png" channelId="4642" tvg-name="UDAR" tvg-id="ufc" shift="3",Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU: Star Plus" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="► Russia ",RU: Star Plus
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325875.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Start Air" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/5c31b59bea48faf6884b96ccd6c90655.png" group-title="► Russia ",RU: Start Air
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325876.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Strana FM TV (Страна FM)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/dc86ae04790d2791c9b9c748145b3e63.png" group-title="► Russia ",RU: Strana FM TV (Страна FM)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325877.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: STS (СТС)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a21796e7bbb7d7ca3b3d27bcd86dcaf2.png" group-title="► Russia ",RU: STS (СТС)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325878.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: STS Kids (СТС)" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="► Russia ",RU: STS Kids (СТС)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325879.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: STS Love (СТС)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/70b6973fa75014f6992ff80cb44d2253.jpg" group-title="► Russia ",RU: STS Love (СТС)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325880.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Subbota! (Суббота!)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/e1b98291f1522a60b7ccb0ca73179380.png" group-title="► Russia ",RU: Subbota! (Суббота!)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325881.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Sunris TV (ТВ Восход)" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="► Russia ",RU: Sunris TV (ТВ Восход)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325882.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: SuperGeroi (Супер Герои)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/e0c1e88d92aa67114f8d0a72e5658543.png" group-title="► Russia ",RU: SuperGeroi (Супер Герои)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325883.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Svoyo TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/19e09ba465a5273e75d908e27096d209.png" group-title="► Russia ",RU: Svoyo TV
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325884.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TBN" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="► Russia ",RU: TBN
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325885.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Techno 24 (24 Техно)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a79bf5b4bdea8dc076a3079231950bd9.png" group-title="► Russia ",RU: Techno 24 (24 Техно)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325886.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telecafé (ТЕЛЕ КАФЕ)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/1e1deaf45bacfc8bf82a18c263968e65.png" group-title="► Russia ",RU: Telecafé (ТЕЛЕ КАФЕ)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325887.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Teledom" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="► Russia ",RU: Teledom
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325888.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal 2x2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/50f27368dabed4d3e8aa79edca48b63f.png" group-title="► Russia ",RU: Telekanal 2x2
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325889.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal 360° (360` Подмосковье)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/d3b18ed9feca010b3e7414baaebfd207.png" group-title="► Russia ",RU: Telekanal 360° (360` Подмосковье)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325890.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Futbol (Футбол)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/78555575fcb58cf51bdb779471ce4323.png" group-title="► Russia ",RU: Telekanal Futbol (Футбол)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325891.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal O!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/9e1e0a07a7df29bab4bdaf27440daaf5.png" group-title="► Russia ",RU: Telekanal O!
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325892.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Spas (Спас ТВ)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/5f20b096f2896cee1dbf2e67af60bfbd.png" group-title="► Russia ",RU: Telekanal Spas (Спас ТВ)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325893.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Zvezda (Звезда)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/6d4d6e8d9200300ce33c3942f2430097.png" group-title="► Russia ",RU: Telekanal Zvezda (Звезда)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325894.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal О!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/44fb6b5c411569c1d42731d3133e249f.jpg" group-title="► Russia ",RU: Telekanal О!
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325895.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Tiji" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6f1220559f045e407c07e94f05a7cfab.png" group-title="► Russia ",RU: Tiji
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325896.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TLC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/11d7cfcfd6bfdabfbeb41fce23477bd2.png" group-title="► Russia ",RU: TLC
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325897.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNT (ТНТ)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cb877d1a852fe9ddc279c5c963553828.png" group-title="► Russia ",RU: TNT (ТНТ)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325898.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNT 4 (ТНТ)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/5f2aeeed349f614970a1594dfbe46b24.png" group-title="► Russia ",RU: TNT 4 (ТНТ)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325899.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNT Music (ТНТ)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/2af7b0953fc13a13ee20cefe30c51e74.png" group-title="► Russia ",RU: TNT Music (ТНТ)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325900.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNV Planeta (ТНВ Планета)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/99db1699a752c6ef295264b02e55d187.png" group-title="► Russia ",RU: TNV Planeta (ТНВ Планета)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325901.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNV Tatarstan (ТНВ Татарстан)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/d8de873718df41841afef4d60e345dae.png" group-title="► Russia ",RU: TNV Tatarstan (ТНВ Татарстан)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325902.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Top Secret (Совершенно секретно)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a59c9104e655b4fa1bcd31cfb263ace0.png" group-title="► Russia ",RU: Top Secret (Совершенно секретно)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325903.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Trash" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/8a2d40ed63e6c4463babf8773d6bb6d7.png" group-title="► Russia ",RU: Trash
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325904.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Travel Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/f5d4c6eb0f67115eee9e03497693d55d.png" group-title="► Russia ",RU: Travel Channel
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325905.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Tri Angela" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/eeb44661c674e8334836806f935eab5c.png" group-title="► Russia ",RU: Tri Angela
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325906.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TRK 555" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="► Russia ",RU: TRK 555
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325907.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV 3 (ТВ3)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/0216b33f9de2d82ee1fc1b5012eb4f51.png" group-title="► Russia ",RU: TV 3 (ТВ3)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325908.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV 1000" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/849b7929a0d4bc1a309f54ec2e2f356a.png" group-title="► Russia ",RU: TV 1000
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325909.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV 1000 Comedy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="► Russia ",RU: TV 1000 Comedy
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325910.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV 21" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/9db23ce7772b17bbe23412c9b5509192.png" group-title="► Russia ",RU: TV 21
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325911.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV Brics" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/314598b9a9e7dda6e5ddaa8c852be1fa.jpg" group-title="► Russia ",RU: TV Brics
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325912.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV Centr (ТВЦ)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/960de9da6871a5d62fc2164c679cd327.svg" group-title="► Russia ",RU: TV Centr (ТВЦ)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325913.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV Grozny (GTRK Groznyj)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/0ce2f141805ca9baf75bb3246186c61c.svg" group-title="► Russia ",RU: TV Grozny (GTRK Groznyj)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325914.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV41" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="► Russia ",RU: TV41
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325915.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: U TV (Ю ТВ)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/54b899340c62af15fd8866ca55531d97.jpg" group-title="► Russia ",RU: U TV (Ю ТВ)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325916.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Ultra HD Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7aca3a69622d7ecf1c67e032f5f57fcb.jpg" group-title="► Russia ",RU: Ultra HD Cinema
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325917.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Unikum (Уникум)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/76ddaefb0f626fb548be2cfcec009d63.jpg" group-title="► Russia ",RU: Unikum (Уникум)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325918.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Univer" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fb29c21b79d4929ee4114fe372f17dce.jpg" group-title="► Russia ",RU: Univer
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325919.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Usadba (Усадьба)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/a83c14388d980ef4d301422d278ae08f.png" group-title="► Russia ",RU: Usadba (Усадьба)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325920.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Vera 24 TV (Вера 24)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/9af28f08a83f582d33052e77a95420a1.png" group-title="► Russia ",RU: Vera 24 TV (Вера 24)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325921.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Vetta 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/9021feb88b2c9b369c7135370267e9fc.png" group-title="► Russia ",RU: Vetta 24
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325922.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: VHS-KA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="► Russia ",RU: VHS-KA
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325923.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viasat History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d00bae61ed26fcc260ba229fc82f12b0.png" group-title="► Russia ",RU: Viasat History
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325924.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viasat Nature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/81a2e0e08e88e32f93783fdce1a188f0.png" group-title="► Russia ",RU: Viasat Nature
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325925.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju Explore" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/d578ac2362aa409e1845d6841a214a4d.png" group-title="► Russia ",RU: Viju Explore
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325926.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/e908cdf8ffd9ef01afd6a2ac8572259c.png" group-title="► Russia ",RU: Viju History
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325927.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju Nature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/3e0ba8d03027b261920794fa0b84ba4a.png" group-title="► Russia ",RU: Viju Nature
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325928.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju TV 1000" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/60e9dc5b9ffcd8cc4b1df50489f5f233.png" group-title="► Russia ",RU: Viju TV 1000
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325929.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju TV 1000 Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/91427165ebd3208f61adddbca342982c.png" group-title="► Russia ",RU: Viju TV 1000 Action
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325930.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju TV 1000 Rosskoe (TV 1000 Русское кино)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/f0c07652391cb48c2938e41340921b91.png" group-title="► Russia ",RU: Viju TV 1000 Rosskoe (TV 1000 Русское кино)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325931.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/1fc55f8645ffaf18604370572cdb0064.png" group-title="► Russia ",RU: Viju+ Comedy
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325932.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Explore" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/0392ef1607359524c3f65bbf620950c0.png" group-title="► Russia ",RU: Viju+ Explore
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325933.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Megahit" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/b2c173eafb6992d379f61d705183e00a.png" group-title="► Russia ",RU: Viju+ Megahit
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325934.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Planet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/d963ee50d21e1703b63d602b5c4b8476.png" group-title="► Russia ",RU: Viju+ Planet
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325935.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Premiere" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/4b15c6a7280181acf8ada4228e93a3b9.png" group-title="► Russia ",RU: Viju+ Premiere
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325936.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Serial" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/2f8f642769343a9b146f85872789a869.png" group-title="► Russia ",RU: Viju+ Serial
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325937.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4154d2d0969db3665dd34bffab59e5d3.png" group-title="► Russia ",RU: Viju+ Sport
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325938.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: VIVA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/c0ef5f429ba45af3d9cb9e3463781133.png" group-title="► Russia ",RU: VIVA TV
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325939.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Volga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/a94fa3e845885da209700351e9dadfa2.png" group-title="► Russia ",RU: Volga
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325940.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Volgograd 24 (Волгоград 24)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/8c50e8358d489c973a73d440e7cc5832.png" group-title="► Russia ",RU: Volgograd 24 (Волгоград 24)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325941.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Voprosy i Otvety (ВО)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7eae3b017f9b9e69a9c3e319f2c82726.jpg" group-title="► Russia ",RU: Voprosy i Otvety (ВО)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325942.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Vremya" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/c7bdc83d6aaa4419f16aefb39eb876c0.jpg" group-title="► Russia ",RU: Vremya
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325943.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: World Fashion Channel Russia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c905610cfa9f68c0a03f33c61b25f07b.png" group-title="► Russia ",RU: World Fashion Channel Russia
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325944.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Yurgan (Юрган)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7c07b64586ae5920fc91d9453be8799.png" group-title="► Russia ",RU: Yurgan (Юрган)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325945.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zagorodny (Загородный)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/5dfe20842e13f4c6c365f4c96c61a3bc.svg" group-title="► Russia ",RU: Zagorodny (Загородный)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325946.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zhar Ptitsa (Жар Птица)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/95be966da92462290f68da6b99b66d8f.png" group-title="► Russia ",RU: Zhar Ptitsa (Жар Птица)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325947.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zhara TV (Жара)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/92db787b8028288ee3dbd53d29bb8579.png" group-title="► Russia ",RU: Zhara TV (Жара)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325948.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zhivaya Priroda (Живая Природа)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/b9ce2b85cb4a6e383825431c00397f28.png" group-title="► Russia ",RU: Zhivaya Priroda (Живая Природа)
+http://brt.9845361.xyz:80/live/Gurcan.akblt.9867.2/24.11.2020/325949.ts
+Rusia ۩",RU: Три Ангела
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/301836
+#EXTINF:-1 tvg-id="" tvg-name="RU: Телплюс ТВ (Астрахань)" tvg-logo="" group-title="۩ Rusia ۩",RU: Телплюс ТВ (Астрахань)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284092
+#EXTINF:-1 tvg-id="" tvg-name="RU: Тамыр" tvg-logo="" group-title="۩ Rusia ۩",RU: Тамыр
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284088
+#EXTINF:-1 tvg-id="" tvg-name="RU: ТКР (Рязань)" tvg-logo="" group-title="۩ Rusia ۩",RU: ТКР (Рязань)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/294813
+#EXTINF:-1 tvg-id="" tvg-name="RU: ТВК 24" tvg-logo="" group-title="۩ Rusia ۩",RU: ТВК 24
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284100
+#EXTINF:-1 tvg-id="" tvg-name="RU: ТВ3" tvg-logo="" group-title="۩ Rusia ۩",RU: ТВ3
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304606
+#EXTINF:-1 tvg-id="" tvg-name="RU: Страшное" tvg-logo="" group-title="۩ Rusia ۩",RU: Страшное
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166585
+#EXTINF:-1 tvg-id="" tvg-name="RU: Север (Нарьян-Мар)" tvg-logo="" group-title="۩ Rusia ۩",RU: Север (Нарьян-Мар)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198925
+#EXTINF:-1 tvg-id="" tvg-name="RU: Самара ГИС" tvg-logo="" group-title="۩ Rusia ۩",RU: Самара ГИС
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284107
+#EXTINF:-1 tvg-id="" tvg-name="RU: Салям" tvg-logo="" group-title="۩ Rusia ۩",RU: Салям
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284106
+#EXTINF:-1 tvg-id="" tvg-name="RU: С86 (86 Сургут)" tvg-logo="" group-title="۩ Rusia ۩",RU: С86 (86 Сургут)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/300457
+#EXTINF:-1 tvg-id="" tvg-name="RU: С1 (Сургут)" tvg-logo="" group-title="۩ Rusia ۩",RU: С1 (Сургут)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198924
+#EXTINF:-1 tvg-id="" tvg-name="RU: Родной канал" tvg-logo="" group-title="۩ Rusia ۩",RU: Родной канал
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284165
+#EXTINF:-1 tvg-id="" tvg-name="RU: Общественное Независимое Телевидение" tvg-logo="" group-title="۩ Rusia ۩",RU: Общественное Независимое Телевидение
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198920
+#EXTINF:-1 tvg-id="" tvg-name="RU: НТМ (Народное телевидение Мордовии)" tvg-logo="" group-title="۩ Rusia ۩",RU: НТМ (Народное телевидение Мордовии)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284132
+#EXTINF:-1 tvg-id="" tvg-name="RU: Мир Белогорья" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир Белогорья
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/297690
+#EXTINF:-1 tvg-id="" tvg-name="RU: Мир +4" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир +4
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284169
+#EXTINF:-1 tvg-id="" tvg-name="RU: Мир +2" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир +2
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284180
+#EXTINF:-1 tvg-id="" tvg-name="RU: Мир" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19039
+#EXTINF:-1 tvg-id="" tvg-name="RU: Матур ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Матур ТВ
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284193
+#EXTINF:-1 tvg-id="" tvg-name="RU: МТВ (Волгоград)" tvg-logo="" group-title="۩ Rusia ۩",RU: МТВ (Волгоград)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198914
+#EXTINF:-1 tvg-id="" tvg-name="RU: МИР СЕРИАЛА" tvg-logo="" group-title="۩ Rusia ۩",RU: МИР СЕРИАЛА
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/231586
+#EXTINF:-1 tvg-id="" tvg-name="RU: ЛДПР ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: ЛДПР ТВ
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198909
+#EXTINF:-1 tvg-id="" tvg-name="RU: Кинозал боевик" tvg-logo="" group-title="۩ Rusia ۩",RU: Кинозал боевик
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/271238
+#EXTINF:-1 tvg-id="" tvg-name="RU: Кино 1 International" tvg-logo="" group-title="۩ Rusia ۩",RU: Кино 1 International
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/300979
+#EXTINF:-1 tvg-id="" tvg-name="RU: Каббала ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Каббала ТВ
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198905
+#EXTINF:-1 tvg-id="" tvg-name="RU: КТО КУДА" tvg-logo="" group-title="۩ Rusia ۩",RU: КТО КУДА
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/297949
+#EXTINF:-1 tvg-id="" tvg-name="RU: К16 (Саров)" tvg-logo="" group-title="۩ Rusia ۩",RU: К16 (Саров)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284196
+#EXTINF:-1 tvg-id="" tvg-name="RU: Енисей" tvg-logo="" group-title="۩ Rusia ۩",RU: Енисей
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/300118
+#EXTINF:-1 tvg-id="" tvg-name="RU: Евразия (Орск)" tvg-logo="" group-title="۩ Rusia ۩",RU: Евразия (Орск)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198902
+#EXTINF:-1 tvg-id="" tvg-name="RU: Губерния (Самара)" tvg-logo="" group-title="۩ Rusia ۩",RU: Губерния (Самара)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284199
+#EXTINF:-1 tvg-id="" tvg-name="RU: Городской телеканал (Ярославль)" tvg-logo="" group-title="۩ Rusia ۩",RU: Городской телеканал (Ярославль)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284200
+#EXTINF:-1 tvg-id="" tvg-name="RU: Белгород 24" tvg-logo="" group-title="۩ Rusia ۩",RU: Белгород 24
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284204
+#EXTINF:-1 tvg-id="" tvg-name="RU: Астрахань.Ru Sport" tvg-logo="" group-title="۩ Rusia ۩",RU: Астрахань.Ru Sport
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304028
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zvezda Plus (Звезда)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zvezda Plus (Звезда)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/295315
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zoo TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Zoo TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/283081
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zhivaya Priroda (Живая Природа)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zhivaya Priroda (Живая Природа)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304391
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zhara TV (Жара)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zhara TV (Жара)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166593
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zhar Ptitsa (Жар Птица)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zhar Ptitsa (Жар Птица)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198903
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zagorodny (Загородный)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zagorodny (Загородный)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304384
+#EXTINF:-1 tvg-id="" tvg-name="RU: Yurgan (Юрган)" tvg-logo="" group-title="۩ Rusia ۩",RU: Yurgan (Юрган)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284205
+#EXTINF:-1 tvg-id="" tvg-name="RU: World Fashion Channel Russia" tvg-logo="" group-title="۩ Rusia ۩",RU: World Fashion Channel Russia
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/165963
+#EXTINF:-1 tvg-id="" tvg-name="RU: Vremya" tvg-logo="" group-title="۩ Rusia ۩",RU: Vremya
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/225217
+#EXTINF:-1 tvg-id="" tvg-name="RU: Voprosy i Otvety (ВО)" tvg-logo="" group-title="۩ Rusia ۩",RU: Voprosy i Otvety (ВО)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/55790
+#EXTINF:-1 tvg-id="" tvg-name="RU: Volgograd 24 (Волгоград 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Volgograd 24 (Волгоград 24)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/300358
+#EXTINF:-1 tvg-id="" tvg-name="RU: Volga" tvg-logo="" group-title="۩ Rusia ۩",RU: Volga
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299500
+#EXTINF:-1 tvg-id="" tvg-name="RU: VIVA TV" tvg-logo="" group-title="۩ Rusia ۩",RU: VIVA TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284086
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Sport" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Sport
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12811
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Serial" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Serial
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298881
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Premiere" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Premiere
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298880
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Planet" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Planet
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298874
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Nature" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Nature
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298876
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Megahit" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Megahit
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298882
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Explore" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Explore
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298877
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Comedy" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Comedy
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298875
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju TV 1000 Rosskoe (TV 1000 Русское кино)" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju TV 1000 Rosskoe (TV 1000 Русское кино)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299024
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju TV 1000 Action" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju TV 1000 Action
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/42064
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju TV 1000" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju TV 1000
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298879
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju Nature" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju Nature
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/300121
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju History" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju History
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298878
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju Explore" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju Explore
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299910
+#EXTINF:-1 tvg-id="" tvg-name="RU: VHS-KA" tvg-logo="" group-title="۩ Rusia ۩",RU: VHS-KA
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304368
+#EXTINF:-1 tvg-id="" tvg-name="RU: Vetta 24" tvg-logo="" group-title="۩ Rusia ۩",RU: Vetta 24
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198899
+#EXTINF:-1 tvg-id="" tvg-name="RU: Vera 24 TV (Вера 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Vera 24 TV (Вера 24)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/60539
+#EXTINF:-1 tvg-id="" tvg-name="RU: V Gostyakh u Skazki (В гостях у сказки)" tvg-logo="" group-title="۩ Rusia ۩",RU: V Gostyakh u Skazki (В гостях у сказки)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298001
+#EXTINF:-1 tvg-id="" tvg-name="RU: Uspeh (Ваш Успех)" tvg-logo="" group-title="۩ Rusia ۩",RU: Uspeh (Ваш Успех)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/300143
+#EXTINF:-1 tvg-id="" tvg-name="RU: Usadba (Усадьба)" tvg-logo="" group-title="۩ Rusia ۩",RU: Usadba (Усадьба)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/43985
+#EXTINF:-1 tvg-id="" tvg-name="RU: Univer" tvg-logo="" group-title="۩ Rusia ۩",RU: Univer
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198891
+#EXTINF:-1 tvg-id="" tvg-name="RU: Unikum (Уникум)" tvg-logo="" group-title="۩ Rusia ۩",RU: Unikum (Уникум)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298016
+#EXTINF:-1 tvg-id="" tvg-name="RU: Ultra HD Cinema" tvg-logo="" group-title="۩ Rusia ۩",RU: Ultra HD Cinema
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166573
+#EXTINF:-1 tvg-id="" tvg-name="RU: U TV (Ю ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: U TV (Ю ТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80175
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV41" tvg-logo="" group-title="۩ Rusia ۩",RU: TV41
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299836
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV Grozny (GTRK Groznyj)" tvg-logo="" group-title="۩ Rusia ۩",RU: TV Grozny (GTRK Groznyj)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299442
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV Centr (ТВЦ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TV Centr (ТВЦ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80238
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV Brics" tvg-logo="" group-title="۩ Rusia ۩",RU: TV Brics
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/42065
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV 21" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 21
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19123
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV 1000" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 1000
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12787
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV 3 (ТВ3)" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 3 (ТВ3)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/295461
+#EXTINF:-1 tvg-id="" tvg-name="RU: TRK 555" tvg-logo="" group-title="۩ Rusia ۩",RU: TRK 555
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284155
+#EXTINF:-1 tvg-id="" tvg-name="RU: Tri Angela" tvg-logo="" group-title="۩ Rusia ۩",RU: Tri Angela
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19108
+#EXTINF:-1 tvg-id="" tvg-name="RU: Travel Channel" tvg-logo="" group-title="۩ Rusia ۩",RU: Travel Channel
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/42060
+#EXTINF:-1 tvg-id="" tvg-name="RU: Travel Adventure" tvg-logo="" group-title="۩ Rusia ۩",RU: Travel Adventure
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19107
+#EXTINF:-1 tvg-id="" tvg-name="RU: Trash" tvg-logo="" group-title="۩ Rusia ۩",RU: Trash
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304367
+#EXTINF:-1 tvg-id="" tvg-name="RU: Top Secret (Совершенно секретно)" tvg-logo="" group-title="۩ Rusia ۩",RU: Top Secret (Совершенно секретно)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299982
+#EXTINF:-1 tvg-id="" tvg-name="RU: Tochka Otryva (Точка Отрыва)" tvg-logo="" group-title="۩ Rusia ۩",RU: Tochka Otryva (Точка Отрыва)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148376
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNV Tatarstan (ТНВ Татарстан)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNV Tatarstan (ТНВ Татарстан)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/271246
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNV Planeta (ТНВ Планета)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNV Planeta (ТНВ Планета)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148375
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNT Music (ТНТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNT Music (ТНТ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/23297
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNT 4 (ТНТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNT 4 (ТНТ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/55825
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNT (ТНТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNT (ТНТ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12757
+#EXTINF:-1 tvg-id="" tvg-name="RU: TLC" tvg-logo="" group-title="۩ Rusia ۩",RU: TLC
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/42059
+#EXTINF:-1 tvg-id="" tvg-name="RU: Tiji" tvg-logo="" group-title="۩ Rusia ۩",RU: Tiji
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80268
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal О!" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal О!
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166623
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Zvezda (Звезда)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Zvezda (Звезда)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/36566
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Spas (Спас ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Spas (Спас ТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/165978
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Futbol (Футбол)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Futbol (Футбол)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148388
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal 360° (360` Подмосковье)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal 360° (360` Подмосковье)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/300132
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal 2x2" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal 2x2
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/60462
+#EXTINF:-1 tvg-id="" tvg-name="RU: Teledom" tvg-logo="" group-title="۩ Rusia ۩",RU: Teledom
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/303993
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telecafé (ТЕЛЕ КАФЕ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telecafé (ТЕЛЕ КАФЕ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166600
+#EXTINF:-1 tvg-id="" tvg-name="RU: Techno 24 (24 Техно)" tvg-logo="" group-title="۩ Rusia ۩",RU: Techno 24 (24 Техно)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299979
+#EXTINF:-1 tvg-id="" tvg-name="RU: TBN" tvg-logo="" group-title="۩ Rusia ۩",RU: TBN
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/200322
+#EXTINF:-1 tvg-id="" tvg-name="RU: Svoyo TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Svoyo TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/276013
+#EXTINF:-1 tvg-id="" tvg-name="RU: SuperGeroi (Супер Герои)" tvg-logo="" group-title="۩ Rusia ۩",RU: SuperGeroi (Супер Герои)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80249
+#EXTINF:-1 tvg-id="" tvg-name="RU: Sunris TV (ТВ Восход)" tvg-logo="" group-title="۩ Rusia ۩",RU: Sunris TV (ТВ Восход)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304603
+#EXTINF:-1 tvg-id="" tvg-name="RU: Subbota! (Суббота!)" tvg-logo="" group-title="۩ Rusia ۩",RU: Subbota! (Суббота!)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304392
+#EXTINF:-1 tvg-id="" tvg-name="RU: STS Love (СТС)" tvg-logo="" group-title="۩ Rusia ۩",RU: STS Love (СТС)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148335
+#EXTINF:-1 tvg-id="" tvg-name="RU: STS Kids (СТС)" tvg-logo="" group-title="۩ Rusia ۩",RU: STS Kids (СТС)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298883
+#EXTINF:-1 tvg-id="" tvg-name="RU: STS (СТС)" tvg-logo="" group-title="۩ Rusia ۩",RU: STS (СТС)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12756
+#EXTINF:-1 tvg-id="" tvg-name="RU: Strana FM TV (Страна FM)" tvg-logo="" group-title="۩ Rusia ۩",RU: Strana FM TV (Страна FM)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/295451
+#EXTINF:-1 tvg-id="" tvg-name="RU: Start Air" tvg-logo="" group-title="۩ Rusia ۩",RU: Start Air
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299023
+#EXTINF:-1 tvg-id="" tvg-name="RU: Star Plus" tvg-logo="" group-title="۩ Rusia ۩",RU: Star Plus
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304390
+#EXTINF:-1 tvg-id="" tvg-name="RU: Soyuz (Союз)" tvg-logo="" group-title="۩ Rusia ۩",RU: Soyuz (Союз)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19115
+#EXTINF:-1 tvg-id="" tvg-name="RU: Sony Sci-Fi" tvg-logo="" group-title="۩ Rusia ۩",RU: Sony Sci-Fi
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/302342
+#EXTINF:-1 tvg-id="" tvg-name="RU: Sochi24" tvg-logo="" group-title="۩ Rusia ۩",RU: Sochi24
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/300629
+#EXTINF:-1 tvg-id="" tvg-name="RU: Sochi Live" tvg-logo="" group-title="۩ Rusia ۩",RU: Sochi Live
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284148
+#EXTINF:-1 tvg-id="" tvg-name="RU: Shopping Live" tvg-logo="" group-title="۩ Rusia ۩",RU: Shopping Live
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19079
+#EXTINF:-1 tvg-id="" tvg-name="RU: Shanson TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Shanson TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/18939
+#EXTINF:-1 tvg-id="" tvg-name="RU: Sfera tv(Сфера)" tvg-logo="" group-title="۩ Rusia ۩",RU: Sfera tv(Сфера)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/300487
+#EXTINF:-1 tvg-id="" tvg-name="RU: Schelkovo TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Schelkovo TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198936
+#EXTINF:-1 tvg-id="" tvg-name="RU: Sarafan (Сарафан)" tvg-logo="" group-title="۩ Rusia ۩",RU: Sarafan (Сарафан)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166565
+#EXTINF:-1 tvg-id="" tvg-name="RU: Sapfir (Сапфир)" tvg-logo="" group-title="۩ Rusia ۩",RU: Sapfir (Сапфир)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304401
+#EXTINF:-1 tvg-id="" tvg-name="RU: Sankt Peterburg (Санкт-Петербург)" tvg-logo="" group-title="۩ Rusia ۩",RU: Sankt Peterburg (Санкт-Петербург)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/231585
+#EXTINF:-1 tvg-id="" tvg-name="RU: Ryzhiy (Рыжий)" tvg-logo="" group-title="۩ Rusia ۩",RU: Ryzhiy (Рыжий)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/200319
+#EXTINF:-1 tvg-id="" tvg-name="RU: Russkiy Roman (Русский роман)" tvg-logo="" group-title="۩ Rusia ۩",RU: Russkiy Roman (Русский роман)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80245
+#EXTINF:-1 tvg-id="" tvg-name="RU: Russkiy Illusion (Русский Иллюзион)" tvg-logo="" group-title="۩ Rusia ۩",RU: Russkiy Illusion (Русский Иллюзион)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166713
+#EXTINF:-1 tvg-id="" tvg-name="RU: Russkiy Detektiv (Русский Детектив)" tvg-logo="" group-title="۩ Rusia ۩",RU: Russkiy Detektiv (Русский Детектив)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/193657
+#EXTINF:-1 tvg-id="" tvg-name="RU: Russkiy Bestseller (Русский бестселлер)" tvg-logo="" group-title="۩ Rusia ۩",RU: Russkiy Bestseller (Русский бестселлер)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/55811
+#EXTINF:-1 tvg-id="" tvg-name="RU: Russkaya Komediya (РУССКАЯ КОМЕДИЯ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Russkaya Komediya (РУССКАЯ КОМЕДИЯ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148385
+#EXTINF:-1 tvg-id="" tvg-name="RU: Ru TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Ru TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148395
+#EXTINF:-1 tvg-id="" tvg-name="RU: RTVi Asia" tvg-logo="" group-title="۩ Rusia ۩",RU: RTVi Asia
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/266725
+#EXTINF:-1 tvg-id="" tvg-name="RU: RTRS Udmurtia" tvg-logo="" group-title="۩ Rusia ۩",RU: RTRS Udmurtia
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/165983
+#EXTINF:-1 tvg-id="" tvg-name="RU: RTR Planeta (Россия РТР)" tvg-logo="" group-title="۩ Rusia ۩",RU: RTR Planeta (Россия РТР)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/174144
+#EXTINF:-1 tvg-id="" tvg-name="RU: RTG" tvg-logo="" group-title="۩ Rusia ۩",RU: RTG
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/75614
+#EXTINF:-1 tvg-id="" tvg-name="RU: RT News" tvg-logo="" group-title="۩ Rusia ۩",RU: RT News
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/48476
+#EXTINF:-1 tvg-id="" tvg-name="RU: RT Documentary" tvg-logo="" group-title="۩ Rusia ۩",RU: RT Documentary
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80180
+#EXTINF:-1 tvg-id="" tvg-name="RU: Rossiya K (Россия К)" tvg-logo="" group-title="۩ Rusia ۩",RU: Rossiya K (Россия К)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80228
+#EXTINF:-1 tvg-id="" tvg-name="RU: Rossiya 24 (Россия 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Rossiya 24 (Россия 24)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/55823
+#EXTINF:-1 tvg-id="" tvg-name="RU: Rossiya 1 (Россия 1)" tvg-logo="" group-title="۩ Rusia ۩",RU: Rossiya 1 (Россия 1)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/36563
+#EXTINF:-1 tvg-id="" tvg-name="RU: Rodnoy Shalom" tvg-logo="" group-title="۩ Rusia ۩",RU: Rodnoy Shalom
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/297583
+#EXTINF:-1 tvg-id="" tvg-name="RU: Rodnoe Kino (Родное Кино)" tvg-logo="" group-title="۩ Rusia ۩",RU: Rodnoe Kino (Родное Кино)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148369
+#EXTINF:-1 tvg-id="" tvg-name="RU: RGVK Dagestan (Дагестан)" tvg-logo="" group-title="۩ Rusia ۩",RU: RGVK Dagestan (Дагестан)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284198
+#EXTINF:-1 tvg-id="" tvg-name="RU: Retro (Ретро ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Retro (Ретро ТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/271252
+#EXTINF:-1 tvg-id="" tvg-name="RU: Renome" tvg-logo="" group-title="۩ Rusia ۩",RU: Renome
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19071
+#EXTINF:-1 tvg-id="" tvg-name="RU: REN TV (РЕН ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: REN TV (РЕН ТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/283057
+#EXTINF:-1 tvg-id="" tvg-name="RU: RBK TV (РБК)" tvg-logo="" group-title="۩ Rusia ۩",RU: RBK TV (РБК)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19070
+#EXTINF:-1 tvg-id="" tvg-name="RU: Radost Moya (Радость моя)" tvg-logo="" group-title="۩ Rusia ۩",RU: Radost Moya (Радость моя)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/271286
+#EXTINF:-1 tvg-id="" tvg-name="RU: Radio Rossii (Радио Говорит Москва)" tvg-logo="" group-title="۩ Rusia ۩",RU: Radio Rossii (Радио Говорит Москва)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284207
+#EXTINF:-1 tvg-id="" tvg-name="RU: Radio Chanson (Радио Шансон)" tvg-logo="" group-title="۩ Rusia ۩",RU: Radio Chanson (Радио Шансон)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198922
+#EXTINF:-1 tvg-id="" tvg-name="RU: Pyatnitsa! (Пятница!)" tvg-logo="" group-title="۩ Rusia ۩",RU: Pyatnitsa! (Пятница!)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80229
+#EXTINF:-1 tvg-id="" tvg-name="RU: Prosveshenie (Продвижение)" tvg-logo="" group-title="۩ Rusia ۩",RU: Prosveshenie (Продвижение)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/200316
+#EXTINF:-1 tvg-id="" tvg-name="RU: Perviy kanal Eurasia (Первый евр)" tvg-logo="" group-title="۩ Rusia ۩",RU: Perviy kanal Eurasia (Первый евр)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/283055
+#EXTINF:-1 tvg-id="" tvg-name="RU: Perviy kanal (Первый канал)" tvg-logo="" group-title="۩ Rusia ۩",RU: Perviy kanal (Первый канал)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/55808
+#EXTINF:-1 tvg-id="" tvg-name="RU: Perviy Jaroslavskiy (Первый Псковский)" tvg-logo="" group-title="۩ Rusia ۩",RU: Perviy Jaroslavskiy (Первый Псковский)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284122
+#EXTINF:-1 tvg-id="" tvg-name="RU: Paramount Channel" tvg-logo="" group-title="۩ Rusia ۩",RU: Paramount Channel
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/71984
+#EXTINF:-1 tvg-id="" tvg-name="RU: OTR (OTP)" tvg-logo="" group-title="۩ Rusia ۩",RU: OTR (OTP)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/192330
+#EXTINF:-1 tvg-id="" tvg-name="RU: Oruzhie (Ружие)" tvg-logo="" group-title="۩ Rusia ۩",RU: Oruzhie (Ружие)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/301225
+#EXTINF:-1 tvg-id="" tvg-name="RU: Okhota i Rybalka (Охота и рыбалка)" tvg-logo="" group-title="۩ Rusia ۩",RU: Okhota i Rybalka (Охота и рыбалка)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/55817
+#EXTINF:-1 tvg-id="" tvg-name="RU: Ocean TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Ocean TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12801
+#EXTINF:-1 tvg-id="" tvg-name="RU: O!2TV" tvg-logo="" group-title="۩ Rusia ۩",RU: O!2TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/60512
+#EXTINF:-1 tvg-id="" tvg-name="RU: NVK Sakha" tvg-logo="" group-title="۩ Rusia ۩",RU: NVK Sakha
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284299
+#EXTINF:-1 tvg-id="" tvg-name="RU: NTV slog" tvg-logo="" group-title="۩ Rusia ۩",RU: NTV slog
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/297602
+#EXTINF:-1 tvg-id="" tvg-name="RU: NTV Serial (НТВ Сериал)" tvg-logo="" group-title="۩ Rusia ۩",RU: NTV Serial (НТВ Сериал)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/283056
+#EXTINF:-1 tvg-id="" tvg-name="RU: NTV Pravo (НТВ Право)" tvg-logo="" group-title="۩ Rusia ۩",RU: NTV Pravo (НТВ Право)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/197427
+#EXTINF:-1 tvg-id="" tvg-name="RU: NTV Mir (НТВ Мир)" tvg-logo="" group-title="۩ Rusia ۩",RU: NTV Mir (НТВ Мир)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/266562
+#EXTINF:-1 tvg-id="" tvg-name="RU: NTV Hit (НТВ Хит)" tvg-logo="" group-title="۩ Rusia ۩",RU: NTV Hit (НТВ Хит)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/197426
+#EXTINF:-1 tvg-id="" tvg-name="RU: NTV (НТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: NTV (НТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12755
+#EXTINF:-1 tvg-id="" tvg-name="RU: NST (НСТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: NST (НСТ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/231587
+#EXTINF:-1 tvg-id="" tvg-name="RU: Novoe Radio" tvg-logo="" group-title="۩ Rusia ۩",RU: Novoe Radio
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284127
+#EXTINF:-1 tvg-id="" tvg-name="RU: Nostalgia (Ностальгия)" tvg-logo="" group-title="۩ Rusia ۩",RU: Nostalgia (Ностальгия)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298012
+#EXTINF:-1 tvg-id="" tvg-name="RU: Nika TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Nika TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/165394
+#EXTINF:-1 tvg-id="" tvg-name="RU: nickelodeon" tvg-logo="" group-title="۩ Rusia ۩",RU: nickelodeon
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/71955
+#EXTINF:-1 tvg-id="" tvg-name="RU: NAT GEO Wild" tvg-logo="" group-title="۩ Rusia ۩",RU: NAT GEO Wild
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19054
+#EXTINF:-1 tvg-id="" tvg-name="RU: NAT GEO" tvg-logo="" group-title="۩ Rusia ۩",RU: NAT GEO
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12798
+#EXTINF:-1 tvg-id="" tvg-name="RU: Nashe Novoe Kino (Наше новое кино)" tvg-logo="" group-title="۩ Rusia ۩",RU: Nashe Novoe Kino (Наше новое кино)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/18987
+#EXTINF:-1 tvg-id="" tvg-name="RU: Nano TV (Нано ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Nano TV (Нано ТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284135
+#EXTINF:-1 tvg-id="" tvg-name="RU: Muzika Pervogo" tvg-logo="" group-title="۩ Rusia ۩",RU: Muzika Pervogo
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/174140
+#EXTINF:-1 tvg-id="" tvg-name="RU: Muzhskoy (Мужской)" tvg-logo="" group-title="۩ Rusia ۩",RU: Muzhskoy (Мужской)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304399
+#EXTINF:-1 tvg-id="" tvg-name="RU: Muzhskoe Kino (Мужское кино)" tvg-logo="" group-title="۩ Rusia ۩",RU: Muzhskoe Kino (Мужское кино)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148378
+#EXTINF:-1 tvg-id="" tvg-name="RU: Muz TV (Муз)" tvg-logo="" group-title="۩ Rusia ۩",RU: Muz TV (Муз)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148366
+#EXTINF:-1 tvg-id="" tvg-name="RU: Muz Soyuz (МузСоюз)" tvg-logo="" group-title="۩ Rusia ۩",RU: Muz Soyuz (МузСоюз)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19040
+#EXTINF:-1 tvg-id="" tvg-name="RU: Music Box Russia" tvg-logo="" group-title="۩ Rusia ۩",RU: Music Box Russia
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80252
+#EXTINF:-1 tvg-id="" tvg-name="RU: Multilandia (Мультиландия)" tvg-logo="" group-title="۩ Rusia ۩",RU: Multilandia (Мультиландия)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/271240
+#EXTINF:-1 tvg-id="" tvg-name="RU: Mult i muzyka (Мультимузыка)" tvg-logo="" group-title="۩ Rusia ۩",RU: Mult i muzyka (Мультимузыка)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166621
+#EXTINF:-1 tvg-id="" tvg-name="RU: Mult (Мульт)" tvg-logo="" group-title="۩ Rusia ۩",RU: Mult (Мульт)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80187
+#EXTINF:-1 tvg-id="" tvg-name="RU: MTV LIVE" tvg-logo="" group-title="۩ Rusia ۩",RU: MTV LIVE
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198940
+#EXTINF:-1 tvg-id="" tvg-name="RU: Moya Planeta (Моя планета)" tvg-logo="" group-title="۩ Rusia ۩",RU: Moya Planeta (Моя планета)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80166
+#EXTINF:-1 tvg-id="" tvg-name="RU: Moskva 24 (Москва 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Moskva 24 (Москва 24)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/267503
+#EXTINF:-1 tvg-id="" tvg-name="RU: Mosfilm Zolotaya kollektsiya (Мосфильм. Золотая коллекция)" tvg-logo="" group-title="۩ Rusia ۩",RU: Mosfilm Zolotaya kollektsiya (Мосфильм. Золотая коллекция)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299984
+#EXTINF:-1 tvg-id="" tvg-name="RU: Morskoi (Морской)" tvg-logo="" group-title="۩ Rusia ۩",RU: Morskoi (Морской)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284129
+#EXTINF:-1 tvg-id="" tvg-name="RU: Mordovia 24 (Мордовия 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Mordovia 24 (Мордовия 24)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284128
+#EXTINF:-1 tvg-id="" tvg-name="RU: Mir 24 (Мир 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Mir 24 (Мир 24)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19041
+#EXTINF:-1 tvg-id="" tvg-name="RU: Millet" tvg-logo="" group-title="۩ Rusia ۩",RU: Millet
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/165956
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Strana (Матч! Страна)" tvg-logo="" group-title="۩ Rusia ۩",RU: Match! Strana (Матч! Страна)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148347
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Igra (МАТЧ! ИГРА)" tvg-logo="" group-title="۩ Rusia ۩",RU: Match! Igra (МАТЧ! ИГРА)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/231627
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 3" tvg-logo="" group-title="۩ Rusia ۩",RU: Match! Futbol 3
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/55802
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 2" tvg-logo="" group-title="۩ Rusia ۩",RU: Match! Futbol 2
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/55800
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 1" tvg-logo="" group-title="۩ Rusia ۩",RU: Match! Futbol 1
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12812
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Boets (МАТЧ! БОЕЦ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Match! Boets (МАТЧ! БОЕЦ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/174136
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Arena (МАТЧ! АРЕНА)" tvg-logo="" group-title="۩ Rusia ۩",RU: Match! Arena (МАТЧ! АРЕНА)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/55801
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! (МАТЧ!)" tvg-logo="" group-title="۩ Rusia ۩",RU: Match! (МАТЧ!)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/75641
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match Premier (МАТЧ! Премьер)" tvg-logo="" group-title="۩ Rusia ۩",RU: Match Premier (МАТЧ! Премьер)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/60499
+#EXTINF:-1 tvg-id="" tvg-name="RU: Mama" tvg-logo="" group-title="۩ Rusia ۩",RU: Mama
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148354
+#EXTINF:-1 tvg-id="" tvg-name="RU: Maidan" tvg-logo="" group-title="۩ Rusia ۩",RU: Maidan
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299444
+#EXTINF:-1 tvg-id="" tvg-name="RU: Lubimoe Kino (Любимое кино)" tvg-logo="" group-title="۩ Rusia ۩",RU: Lubimoe Kino (Любимое кино)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/174809
+#EXTINF:-1 tvg-id="" tvg-name="RU: Leomax 24" tvg-logo="" group-title="۩ Rusia ۩",RU: Leomax 24
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284187
+#EXTINF:-1 tvg-id="" tvg-name="RU: KVN TV (КВН ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: KVN TV (КВН ТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298005
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kurai TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Kurai TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/165959
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kunel TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Kunel TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299440
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kuhnya TV (Кухня ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kuhnya TV (Кухня ТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/55796
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kto est kto (КТО ЕСТЬ КТО)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kto est kto (КТО ЕСТЬ КТО)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/231590
+#EXTINF:-1 tvg-id="" tvg-name="RU: Krik TV (Крик-ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Krik TV (Крик-ТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198907
+#EXTINF:-1 tvg-id="" tvg-name="RU: Krasnaya Liniya (Красная линия)" tvg-logo="" group-title="۩ Rusia ۩",RU: Krasnaya Liniya (Красная линия)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/295437
+#EXTINF:-1 tvg-id="" tvg-name="RU: Komediynoe" tvg-logo="" group-title="۩ Rusia ۩",RU: Komediynoe
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/193659
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kinouzhas (Киноужас)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kinouzhas (Киноужас)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/271226
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kinosvidanie (Киносвидание)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kinosvidanie (Киносвидание)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166579
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kinoserija (КИНОСЕРИЯ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kinoserija (КИНОСЕРИЯ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148340
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kinosemja (Киносемья)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kinosemja (Киносемья)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148344
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kinopremyera (КИОНОПРЕМЬЕРА)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kinopremyera (КИОНОПРЕМЬЕРА)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/42049
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kinopokaz (Кинопоказ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kinopokaz (Кинопоказ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80246
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kinomiks (Киномикс)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kinomiks (Киномикс)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148356
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kinokomedija (Кинокомедия)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kinokomedija (Кинокомедия)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/72012
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kinohit (Кинохит)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kinohit (Кинохит)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12783
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kino UHD" tvg-logo="" group-title="۩ Rusia ۩",RU: Kino UHD
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304595
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kino TV (Кино)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kino TV (Кино)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/75628
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kineko (Кинеко)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kineko (Кинеко)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304394
+#EXTINF:-1 tvg-id="" tvg-name="RU: KHL Prime" tvg-logo="" group-title="۩ Rusia ۩",RU: KHL Prime
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/297582
+#EXTINF:-1 tvg-id="" tvg-name="RU: KHL (КХЛ ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: KHL (КХЛ ТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/77314
+#EXTINF:-1 tvg-id="" tvg-name="RU: Katun 24" tvg-logo="" group-title="۩ Rusia ۩",RU: Katun 24
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/165402
+#EXTINF:-1 tvg-id="" tvg-name="RU: Karusel (КАРУСЕЛЬ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Karusel (КАРУСЕЛЬ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/72007
+#EXTINF:-1 tvg-id="" tvg-name="RU: Kaleidoskop TV (Калейдоскоп ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Kaleidoskop TV (Калейдоскоп ТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19000
+#EXTINF:-1 tvg-id="" tvg-name="RU: JWL" tvg-logo="" group-title="۩ Rusia ۩",RU: JWL
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299441
+#EXTINF:-1 tvg-id="" tvg-name="RU: Juvelirochka" tvg-logo="" group-title="۩ Rusia ۩",RU: Juvelirochka
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284097
+#EXTINF:-1 tvg-id="" tvg-name="RU: Izvestia TV (Известия)" tvg-logo="" group-title="۩ Rusia ۩",RU: Izvestia TV (Известия)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/198904
+#EXTINF:-1 tvg-id="" tvg-name="RU: Istoriya Telekanal (История)" tvg-logo="" group-title="۩ Rusia ۩",RU: Istoriya Telekanal (История)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/278414
+#EXTINF:-1 tvg-id="" tvg-name="RU: Investigation Discovery" tvg-logo="" group-title="۩ Rusia ۩",RU: Investigation Discovery
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/231633
+#EXTINF:-1 tvg-id="" tvg-name="RU: Ingushetia" tvg-logo="" group-title="۩ Rusia ۩",RU: Ingushetia
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299439
+#EXTINF:-1 tvg-id="" tvg-name="RU: Indijskoe Kino (ИНДИЙСКОЕ КИНО)" tvg-logo="" group-title="۩ Rusia ۩",RU: Indijskoe Kino (ИНДИЙСКОЕ КИНО)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298986
+#EXTINF:-1 tvg-id="" tvg-name="RU: Hollywood" tvg-logo="" group-title="۩ Rusia ۩",RU: Hollywood
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166574
+#EXTINF:-1 tvg-id="" tvg-name="RU: HIT" tvg-logo="" group-title="۩ Rusia ۩",RU: HIT
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/295430
+#EXTINF:-1 tvg-id="" tvg-name="RU: History 2" tvg-logo="" group-title="۩ Rusia ۩",RU: History 2
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/297601
+#EXTINF:-1 tvg-id="" tvg-name="RU: History" tvg-logo="" group-title="۩ Rusia ۩",RU: History
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80214
+#EXTINF:-1 tvg-id="" tvg-name="RU: HDL" tvg-logo="" group-title="۩ Rusia ۩",RU: HDL
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148336
+#EXTINF:-1 tvg-id="" tvg-name="RU: Gulli Girl" tvg-logo="" group-title="۩ Rusia ۩",RU: Gulli Girl
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166618
+#EXTINF:-1 tvg-id="" tvg-name="RU: GTRK Omsk 12 Kanal" tvg-logo="" group-title="۩ Rusia ۩",RU: GTRK Omsk 12 Kanal
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299435
+#EXTINF:-1 tvg-id="" tvg-name="RU: Galaxy" tvg-logo="" group-title="۩ Rusia ۩",RU: Galaxy
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304893
+#EXTINF:-1 tvg-id="" tvg-name="RU: Food Network" tvg-logo="" group-title="۩ Rusia ۩",RU: Food Network
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148338
+#EXTINF:-1 tvg-id="" tvg-name="RU: Filmbox" tvg-logo="" group-title="۩ Rusia ۩",RU: Filmbox
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148331
+#EXTINF:-1 tvg-id="" tvg-name="RU: Fast & FunBox" tvg-logo="" group-title="۩ Rusia ۩",RU: Fast & FunBox
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299911
+#EXTINF:-1 tvg-id="" tvg-name="RU: FashionTV" tvg-logo="" group-title="۩ Rusia ۩",RU: FashionTV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/18978
+#EXTINF:-1 tvg-id="" tvg-name="RU: FashionBox" tvg-logo="" group-title="۩ Rusia ۩",RU: FashionBox
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/291134
+#EXTINF:-1 tvg-id="" tvg-name="RU: Extreme Sports Channel" tvg-logo="" group-title="۩ Rusia ۩",RU: Extreme Sports Channel
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148329
+#EXTINF:-1 tvg-id="" tvg-name="RU: Evrokino (Еврокино)" tvg-logo="" group-title="۩ Rusia ۩",RU: Evrokino (Еврокино)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/283063
+#EXTINF:-1 tvg-id="" tvg-name="RU: Eurosport 2" tvg-logo="" group-title="۩ Rusia ۩",RU: Eurosport 2
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80264
+#EXTINF:-1 tvg-id="" tvg-name="RU: Eurosport 1" tvg-logo="" group-title="۩ Rusia ۩",RU: Eurosport 1
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12805
+#EXTINF:-1 tvg-id="" tvg-name="RU: Europa Plus TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Europa Plus TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166589
+#EXTINF:-1 tvg-id="" tvg-name="RU: euronews" tvg-logo="" group-title="۩ Rusia ۩",RU: euronews
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/60478
+#EXTINF:-1 tvg-id="" tvg-name="RU: Enisey" tvg-logo="" group-title="۩ Rusia ۩",RU: Enisey
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284149
+#EXTINF:-1 tvg-id="" tvg-name="RU: English Club TV" tvg-logo="" group-title="۩ Rusia ۩",RU: English Club TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/271274
+#EXTINF:-1 tvg-id="" tvg-name="RU: Duck TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Duck TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304386
+#EXTINF:-1 tvg-id="" tvg-name="RU: Draiv (Драйв)" tvg-logo="" group-title="۩ Rusia ۩",RU: Draiv (Драйв)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/55795
+#EXTINF:-1 tvg-id="" tvg-name="RU: Dorama (Дорама)" tvg-logo="" group-title="۩ Rusia ۩",RU: Dorama (Дорама)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298002
+#EXTINF:-1 tvg-id="" tvg-name="RU: Domashniy (Домашний)" tvg-logo="" group-title="۩ Rusia ۩",RU: Domashniy (Домашний)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80232
+#EXTINF:-1 tvg-id="" tvg-name="RU: Dom Kino Premium (Дом Кино Премиум)" tvg-logo="" group-title="۩ Rusia ۩",RU: Dom Kino Premium (Дом Кино Премиум)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298984
+#EXTINF:-1 tvg-id="" tvg-name="RU: Dom Kino (Дом кино)" tvg-logo="" group-title="۩ Rusia ۩",RU: Dom Kino (Дом кино)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/43930
+#EXTINF:-1 tvg-id="" tvg-name="RU: DocuBox" tvg-logo="" group-title="۩ Rusia ۩",RU: DocuBox
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/75600
+#EXTINF:-1 tvg-id="" tvg-name="RU: Disney Channel" tvg-logo="" group-title="۩ Rusia ۩",RU: Disney Channel
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12768
+#EXTINF:-1 tvg-id="" tvg-name="RU: Discovery World" tvg-logo="" group-title="۩ Rusia ۩",RU: Discovery World
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/71991
+#EXTINF:-1 tvg-id="" tvg-name="RU: Discovery Science" tvg-logo="" group-title="۩ Rusia ۩",RU: Discovery Science
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/80201
+#EXTINF:-1 tvg-id="" tvg-name="RU: Dikij Telekanal (Дикий)" tvg-logo="" group-title="۩ Rusia ۩",RU: Dikij Telekanal (Дикий)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/300122
+#EXTINF:-1 tvg-id="" tvg-name="RU: Dikaya Rybalka (Дикая Рыбалка)" tvg-logo="" group-title="۩ Rusia ۩",RU: Dikaya Rybalka (Дикая Рыбалка)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304407
+#EXTINF:-1 tvg-id="" tvg-name="RU: Dikaya Okhota (Дикая Охота)" tvg-logo="" group-title="۩ Rusia ۩",RU: Dikaya Okhota (Дикая Охота)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304408
+#EXTINF:-1 tvg-id="" tvg-name="RU: Dialogi o rybalke (Диалоги о Рыбалке)" tvg-logo="" group-title="۩ Rusia ۩",RU: Dialogi o rybalke (Диалоги о Рыбалке)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/300145
+#EXTINF:-1 tvg-id="" tvg-name="RU: Detski Mir (Детский мир)" tvg-logo="" group-title="۩ Rusia ۩",RU: Detski Mir (Детский мир)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/266743
+#EXTINF:-1 tvg-id="" tvg-name="RU: Da Vinci" tvg-logo="" group-title="۩ Rusia ۩",RU: Da Vinci
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/43990
+#EXTINF:-1 tvg-id="" tvg-name="RU: Classic Music" tvg-logo="" group-title="۩ Rusia ۩",RU: Classic Music
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304383
+#EXTINF:-1 tvg-id="" tvg-name="RU: Cinema" tvg-logo="" group-title="۩ Rusia ۩",RU: Cinema
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166715
+#EXTINF:-1 tvg-id="" tvg-name="RU: Che! (ЧЕ!)" tvg-logo="" group-title="۩ Rusia ۩",RU: Che! (ЧЕ!)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/266773
+#EXTINF:-1 tvg-id="" tvg-name="RU: CGTN" tvg-logo="" group-title="۩ Rusia ۩",RU: CGTN
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299480
+#EXTINF:-1 tvg-id="" tvg-name="RU: CBS Reality" tvg-logo="" group-title="۩ Rusia ۩",RU: CBS Reality
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148321
+#EXTINF:-1 tvg-id="" tvg-name="RU: Cartoonito" tvg-logo="" group-title="۩ Rusia ۩",RU: Cartoonito
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/300951
+#EXTINF:-1 tvg-id="" tvg-name="RU: Cartoon Network" tvg-logo="" group-title="۩ Rusia ۩",RU: Cartoon Network
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12769
+#EXTINF:-1 tvg-id="" tvg-name="RU: Bridge TV Russkiy Hit" tvg-logo="" group-title="۩ Rusia ۩",RU: Bridge TV Russkiy Hit
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/297599
+#EXTINF:-1 tvg-id="" tvg-name="RU: Bridge TV Hits" tvg-logo="" group-title="۩ Rusia ۩",RU: Bridge TV Hits
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/283075
+#EXTINF:-1 tvg-id="" tvg-name="RU: Bridge TV Deluxe" tvg-logo="" group-title="۩ Rusia ۩",RU: Bridge TV Deluxe
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/283076
+#EXTINF:-1 tvg-id="" tvg-name="RU: Bridge TV Classic" tvg-logo="" group-title="۩ Rusia ۩",RU: Bridge TV Classic
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148334
+#EXTINF:-1 tvg-id="" tvg-name="RU: Bridge TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Bridge TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148333
+#EXTINF:-1 tvg-id="" tvg-name="RU: Boomerang" tvg-logo="" group-title="۩ Rusia ۩",RU: Boomerang
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/77350
+#EXTINF:-1 tvg-id="" tvg-name="RU: Boks TV (Бокс)" tvg-logo="" group-title="۩ Rusia ۩",RU: Boks TV (Бокс)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148318
+#EXTINF:-1 tvg-id="" tvg-name="RU: Bober (Бобер)" tvg-logo="" group-title="۩ Rusia ۩",RU: Bober (Бобер)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/200291
+#EXTINF:-1 tvg-id="" tvg-name="RU: BelRos" tvg-logo="" group-title="۩ Rusia ۩",RU: BelRos
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/286011
+#EXTINF:-1 tvg-id="" tvg-name="RU: Belarus 24 (Беларусь 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Belarus 24 (Беларусь 24)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/192302
+#EXTINF:-1 tvg-id="" tvg-name="RU: Belarus 3 (Беларусь 3)" tvg-logo="" group-title="۩ Rusia ۩",RU: Belarus 3 (Беларусь 3)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299550
+#EXTINF:-1 tvg-id="" tvg-name="RU: Belarus 2 (Беларусь 2)" tvg-logo="" group-title="۩ Rusia ۩",RU: Belarus 2 (Беларусь 2)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/295238
+#EXTINF:-1 tvg-id="" tvg-name="RU: Belarus 1 (Беларусь 1)" tvg-logo="" group-title="۩ Rusia ۩",RU: Belarus 1 (Беларусь 1)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/295237
+#EXTINF:-1 tvg-id="" tvg-name="RU: Bashkirskoe Sputnikovoe TV (БСТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Bashkirskoe Sputnikovoe TV (БСТ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148325
+#EXTINF:-1 tvg-id="" tvg-name="RU: BAIKAL Univer TV (БАЙКАЛ Универ ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: BAIKAL Univer TV (БАЙКАЛ Универ ТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/304591
+#EXTINF:-1 tvg-id="" tvg-name="RU: Avto 24 (Авто 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Avto 24 (Авто 24)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166615
+#EXTINF:-1 tvg-id="" tvg-name="RU: Auto Plus (Авто Плюс)" tvg-logo="" group-title="۩ Rusia ۩",RU: Auto Plus (Авто Плюс)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/299986
+#EXTINF:-1 tvg-id="" tvg-name="RU: Astrakhan Live" tvg-logo="" group-title="۩ Rusia ۩",RU: Astrakhan Live
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/297597
+#EXTINF:-1 tvg-id="" tvg-name="RU: Astrakhan 24" tvg-logo="" group-title="۩ Rusia ۩",RU: Astrakhan 24
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/166333
+#EXTINF:-1 tvg-id="" tvg-name="RU: Arkhyz 24 (Архыз 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Arkhyz 24 (Архыз 24)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284159
+#EXTINF:-1 tvg-id="" tvg-name="RU: Aris 24 (Арис 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Aris 24 (Арис 24)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284158
+#EXTINF:-1 tvg-id="" tvg-name="RU: ANIMAL PLANET" tvg-logo="" group-title="۩ Rusia ۩",RU: ANIMAL PLANET
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/60465
+#EXTINF:-1 tvg-id="" tvg-name="RU: Ani" tvg-logo="" group-title="۩ Rusia ۩",RU: Ani
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148315
+#EXTINF:-1 tvg-id="" tvg-name="RU: Anekdot TV (Анекдот ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Anekdot TV (Анекдот ТВ)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/298000
+#EXTINF:-1 tvg-id="" tvg-name="RU: Amedia Premium" tvg-logo="" group-title="۩ Rusia ۩",RU: Amedia Premium
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/75622
+#EXTINF:-1 tvg-id="" tvg-name="RU: Amedia Hit" tvg-logo="" group-title="۩ Rusia ۩",RU: Amedia Hit
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/39357
+#EXTINF:-1 tvg-id="" tvg-name="RU: Amedia 2" tvg-logo="" group-title="۩ Rusia ۩",RU: Amedia 2
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12775
+#EXTINF:-1 tvg-id="" tvg-name="RU: Amedia 1" tvg-logo="" group-title="۩ Rusia ۩",RU: Amedia 1
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/12774
+#EXTINF:-1 tvg-id="" tvg-name="RU: Almaznyy kray TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Almaznyy kray TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284301
+#EXTINF:-1 tvg-id="" tvg-name="RU: AIST TV" tvg-logo="" group-title="۩ Rusia ۩",RU: AIST TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/303597
+#EXTINF:-1 tvg-id="" tvg-name="RU: 365 dnei TV" tvg-logo="" group-title="۩ Rusia ۩",RU: 365 dnei TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/193655
+#EXTINF:-1 tvg-id="" tvg-name="RU: 360° Novosti" tvg-logo="" group-title="۩ Rusia ۩",RU: 360° Novosti
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/283073
+#EXTINF:-1 tvg-id="" tvg-name="RU: 1tulatv (Первый Тульский)" tvg-logo="" group-title="۩ Rusia ۩",RU: 1tulatv (Первый Тульский)
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284123
+#EXTINF:-1 tvg-id="" tvg-name="RU: 1Mus 720" tvg-logo="" group-title="۩ Rusia ۩",RU: 1Mus 720
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/286651
+#EXTINF:-1 tvg-id="" tvg-name="RU: 1Mus 480" tvg-logo="" group-title="۩ Rusia ۩",RU: 1Mus 480
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/296790
+#EXTINF:-1 tvg-id="" tvg-name="RU: 1Mus 1080" tvg-logo="" group-title="۩ Rusia ۩",RU: 1Mus 1080
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/286008
+#EXTINF:-1 tvg-id="" tvg-name="RU: 8 Kanal International" tvg-logo="" group-title="۩ Rusia ۩",RU: 8 Kanal International
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/284177
+#EXTINF:-1 tvg-id="" tvg-name="RU: 8 Kanal" tvg-logo="" group-title="۩ Rusia ۩",RU: 8 Kanal
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/296792
+#EXTINF:-1 tvg-id="" tvg-name="RU: 7 TV" tvg-logo="" group-title="۩ Rusia ۩",RU: 7 TV
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/200288
+#EXTINF:-1 tvg-id="" tvg-name="RU: 5 Kanal" tvg-logo="" group-title="۩ Rusia ۩",RU: 5 Kanal
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/19111
+#EXTINF:-1 tvg-id="" tvg-name="RU: .Sci-fi" tvg-logo="" group-title="۩ Rusia ۩",RU: .Sci-fi
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/148386
+#EXTINF:-1 tvg-id="" tvg-name="RU: .Red" tvg-logo="" group-title="۩ Rusia ۩",RU: .Red
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/266730
+#EXTINF:-1 tvg-id="" tvg-name="RU: .Black" tvg-logo="" group-title="۩ Rusia ۩",RU: .Black
+http://iptvtree.net:8080/romaniamedia/73f30bc53a/283065
