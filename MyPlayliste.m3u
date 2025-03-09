@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", SETANTA
+http://127.0.0.1:6878/ace/getstream?infohash=2d53211689c67c59f91f4d854db97ea2219161ec
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", SETANTA UZB
+http://127.0.0.1:6878/ace/getstream?infohash=cc52ecee0549a32251977632acab3b0678a60f8a
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", SETANTA QZ
+http://127.0.0.1:6878/ace/getstream?infohash=626c5326f29984bbedceee04c9694a0447ba0a9a
+#EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", SETANTA TERMIZ
+http://127.0.0.1:6878/ace/getstream?infohash=626c5326f29984bbedceee04c9694a0447ba0a9a
 #EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", O'zbekiston
 https://flussonic.salomtv.uz/Uzbekiston/video.m3u8
 #EXTINF:0,#EXTINF:-1 group-title="ArtelPremium (90-5219886)", Yoshlar
